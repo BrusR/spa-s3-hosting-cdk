@@ -1,0 +1,1 @@
+# spa-s3-hosting-cdk
